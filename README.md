@@ -17,6 +17,27 @@ Also Headline Level 2
 ##### Headline Level 5
 ###### Headline Level 6
 
+[Here is a link](https://github.com/MattGooding)
+
+[![Github](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)](https://github.com/MattGooding/learningGit)
+
+`console.log("This is code");`
+
+| Left | Center | Right |
+| ---- | :----: | ----: |
+| One  | Two    | $1.00 |
+| Three | Four  | $10.00 |
+| Five | Six    | $100.00 |
+
+- [x] First
+- [] Second
+ - [x] One
+ - [] Two
+
+`#FABCDE`
+
+:heart
+
 **This is bold text**
 
 _This text is italicized_
